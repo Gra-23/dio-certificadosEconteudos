@@ -1,3 +1,3 @@
 # BOOTCAMP Fullstack da DIO
-Repositório criado para o desafio de projeto, com o objetivo de armazenar meus estudos.
+Repositório criado para armazenar minhas anotações, certificados e progresso nos estudos.
 
